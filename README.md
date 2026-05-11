@@ -1,6 +1,6 @@
-# Snowflake Summit 26 — GO229: Zero-Trust Identity and Access
+# Test_HOL
 
-Hands-on Lab: **Secure by Default: Implementing Zero-Trust Identity and Access in Snowflake**
+HOL: **SESSION_1**
 
 ## What this repo does
 
