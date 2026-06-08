@@ -14,7 +14,7 @@ GitHub Actions mints a short-lived OIDC token. Snowflake validates it. Connectio
 2. **Add a repository variable**:
    - Settings → Secrets and variables → Actions → Variables → New repository variable
    - Name: `SNOWFLAKE_ACCOUNT`
-   - Value: your Snowflake account locator (on your lab card)
+   - Value: your Snowflake account identifier (on your lab card)
 3. **Run the Snowflake SQL** (in your lab account as ACCOUNTADMIN):
    ```sql
    CREATE USER IF NOT EXISTS GITHUB_PIPELINE_SVC
